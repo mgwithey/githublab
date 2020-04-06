@@ -2,6 +2,9 @@
 #include <stdint.h>
 #include <stdio.h>
 
-//test
+//recitation 2 quiz
 
-//hello hello
+int main (void) {
+    printf("hi\n");
+    return 0;
+}
