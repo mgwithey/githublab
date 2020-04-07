@@ -1,5 +1,6 @@
 //Recitaiton quiz 2
 //Matthew Withey
+//some of the code is from slides
 
 #include <stdlib.h>
 #include <stdint.h>
