@@ -1,13 +1,9 @@
 //Recitaiton quiz 2
+//Matthew Withey
 
 #include <stdlib.h>
 #include <stdint.h>
 #include <stdio.h>
-
-//recitation 2 quiz
-int elems;
-int terms;
-int sum;
 
 int combinations(int n,int k) {
     int long factN = 1;
