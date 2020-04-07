@@ -34,7 +34,7 @@ int sumsTo(int x[], int n, int k, int v) {
     return res1 + res2 > 0; 
 }
 int main (void) {
-    int x[] = {3,1,3,1,3};  //can change array here
+    int x[] = {1,2,3,4,5};  //can change array here
 
     int n = sizeof(x)/sizeof(int);
 
@@ -47,7 +47,7 @@ int main (void) {
     int k = 3;  //number of allowed terms 
     printf("There are %d allowed terms\n", k);
 
-    int v = 9;  //desired number
+    int v = 10;  //desired number
     printf("%d is the desired number\n", v);
 
     int total = combinations(n,k);
